@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: src/account/AccountServiceApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/AccountServiceTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/account/controllers/BaseController.java
+    visible: true
+    learner_created: true
+  - name: src/account/controllers/AccountController.java
+    visible: true
+    learner_created: true
+  - name: src/account/dto/request/SignUpRequestDTO.java
+    visible: true
+    learner_created: true
+  - name: src/account/dto/response/SignUpResponseDTO.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/16601#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 16 Aug 2024 14:07:01 UTC"
+record: 1
